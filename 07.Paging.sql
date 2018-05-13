@@ -1,5 +1,5 @@
-DECLARE @pageSize INT = 5 -- page size to be passed
-DECLARE @pageIndex INT = 6 -- zero-based page index to be passed (0, 1, 2, ....)
+DECLARE @pageSize INT = 1 -- page size to be passed
+DECLARE @pageIndex INT = 0 -- zero-based page index to be passed (0, 1, 2, ....)
 
 
 DECLARE @firstItemIndex INT
